@@ -1,0 +1,33 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1 {
+  background-color: #fcd34d;
+}
+
+input {
+  width: 30%;
+  height: 10%;
+  padding: 1rem;
+  margin: 0.5rem;
+}
+
+button {
+  color: white;
+  background-color: #fcd34d;
+  text-decoration: none;
+  padding: 0.5rem 0.75rem;
+  border: 1px solid #fcd34d;
+  border-radius: 0.5rem;
+  margin: 1rem;
+}
+
+img {
+  border-radius: 2rem;
+  max-width: 300px;
+  height: auto;
+  margin: auto;
+  display: block;
+}
